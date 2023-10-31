@@ -7,13 +7,13 @@ $apps = @(
     'GOG.Galaxy',
     'Discord.Discord',
     'Corsair.iCUE.4',
-    '9PKTQ5699M62',
+    '9PKTQ5699M62', #iCloud
     'Parsec.Parsec',
     'Mozilla.Firefox',
     'DominikReichl.KeePass',
     'Citrix.Workspace',
     'Google.Chrome',
-    'XPFG20V78LRMWG',
+    'XPFG20V78LRMWG', #DriverBoosterFree
     'Notepad++.Notepad++',
     'VideoLAN.VLC',
     'Nvidia.GeForceExperience'
